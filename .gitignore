@@ -1,0 +1,7 @@
+node_modules/
+dist/
+generated.csv
+*.d.ts
+src/*.js
+.DS_STORE
+package-lock.json
